@@ -1,2 +1,2 @@
 
-# macOS Clipboard Manager - Setup & Usage Instructions
+# macOS Clipboard Manager

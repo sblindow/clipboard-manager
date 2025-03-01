@@ -1,0 +1,19 @@
+# Rust
+/rust_backend/target/
+**/*.rs.bk
+Cargo.lock
+
+# Swift/Xcode
+.DS_Store
+/swift_frontend/.build/
+/swift_frontend/DerivedData/
+/swift_frontend/*.pbxuser
+/swift_frontend/*.mode1v3
+/swift_frontend/*.mode2v3
+/swift_frontend/*.perspectivev3
+/swift_frontend/xcuserdata/
+/swift_frontend/*.xccheckout
+/swift_frontend/*.xcscmblueprint
+/swift_frontend/*.xcuserstate
+/swift_frontend/*.xcworkspace/
+/swift_frontend/Pods/

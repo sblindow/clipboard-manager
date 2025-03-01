@@ -540,7 +540,6 @@ class ClipboardManager: ObservableObject {
                                 &eventHotKeyRef)
         }
     }
-    }
 
     private func unregisterHotkey(for shortcut: String) {
         // In a real app, you would need to store eventHotKeyRef and eventHandler
